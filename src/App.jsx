@@ -35,7 +35,7 @@ export const App = () => {
     <>
       {/* Component Example */}
       <Logos />
-      <h1>{appContent.heading}</h1>
+      <h1>Hey October</h1>
       <p>{appContent.reactivedataExampleThree}</p>
       <div className="card">
         <p>{appContent.reactivedataExampleOne}</p>
